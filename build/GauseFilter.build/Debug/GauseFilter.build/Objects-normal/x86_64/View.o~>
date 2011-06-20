@@ -1,0 +1,2 @@
+In file included from /Users/kikugawamariko/XCodeProjects/GauseFilter/View.m:9:
+/Users/kikugawamariko/XCodeProjects/GauseFilter/View.h:15: error: duplicate member '_window'

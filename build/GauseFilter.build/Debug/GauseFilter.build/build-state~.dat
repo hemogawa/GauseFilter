@@ -1,0 +1,216 @@
+TGauseFilter
+v7
+r0
+t329049724.025760
+cCheck dependencies
+cProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Info.plist GauseFilter-Info.plist
+cCopyStringsFile /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch.gch GauseFilter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/GauseFilter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseFilterAppDelegate.o /Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/Controller.o /Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DB7BB0E00000000000000EE
+t1303886606
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.h
+c000000004DECAEED0000000000000146
+t1307356909
+s326
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m
+c000000004DECAE8D00000000000002B7
+t1307356813
+s695
+i"Controller.h"
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/InfoPlist.strings
+c000000004DEC9FC0000000000000002D
+t1307353024
+s45
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/MainMenu.xib
+c000000004DEC9FC0000000000002BB97
+t1307353024
+s179095
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.h
+c000000004DEC9FC00000000000000162
+t1307353024
+s354
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m
+c000000004DEC9FC0000000000000019B
+t1307353024
+s411
+i"GauseFilterAppDelegate.h"
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilter_Prefix.pch
+c000000004DEC9FC00000000000000099
+t1307353024
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Info.plist
+t1307356914
+s1296
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/MacOS/GauseFilter
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/PkgInfo
+t1307356914
+s8
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1307356915
+s92
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/MainMenu.nib
+t1307356914
+s34448
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/Controller.o
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseFilter.LinkFileList
+c000000004DECAEF2000000000000018F
+t1307356914
+s399
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseFilterAppDelegate.o
+t1307356923
+s21224
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/main.o
+t1307356923
+s5016
+
+N/Users/kikugawamariko/XCodeProjects/GauseFilter/main.m
+c000000004DEC9FC0000000000000011C
+t1307353024
+s284
+i<Cocoa/Cocoa.h>
+
+N/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch.gch
+t1307356923
+s54306576
+
+NGauseFilter-Info.plist
+c000000004DEC9FC000000000000003EA
+t1307353024
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329049714#329049714#0(0"0(0#1#0"2513076880#0"0#
+
+CCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/Controller.o /Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329049723.908642
+e329049724.025680
+r0
+xCompileC
+xbuild/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/Controller.o
+x/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m: In function '-[Controller capture:]':
+o/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m:21: error: 'cgimage' undeclared (first use in this function)
+o/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m:21: error: (Each undeclared identifier is reported only once
+o/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m:21: error: for each function it appears in.)
+lSLF07#2@68"Compile /Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m329049723#329049724#0(450"/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m: In function '-[Controller capture:]':/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m:21: error: 'cgimage' undeclared (first use in this function)/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m:21: error: (Each undeclared identifier is reported only once/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m:21: error: for each function it appears in.)1(4@49"'cgimage' undeclared (first use in this function)329049723#100#122#0(6@60"/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m329049613#21#0#21#0#43"'*' undeclared (first use in this function)0(0#0#60"/Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m2513076880#1641"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m -o /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/Controller.o1#
+
+CCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseFilterAppDelegate.o /Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329049723.568779
+e329049723.910157
+r1
+xCompileC
+xbuild/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseFilterAppDelegate.o
+x/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m329049723#329049723#0(0"0(0#0#72"/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m2513076880#1665"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilterAppDelegate.m -o /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseFilterAppDelegate.o0#
+
+CCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/GauseFilter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329049723.567757
+e329049723.908485
+r1
+xCompileC
+xbuild/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/GauseFilter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kikugawamariko/XCodeProjects/GauseFilter/main.m329049723#329049723#0(0"0(0#0#54"/Users/kikugawamariko/XCodeProjects/GauseFilter/main.m2513076880#1629"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/GauseFilter/main.m -o /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/MainMenu.xib
+s329049714.560943
+e329049715.001505
+r1
+xCompileXIB
+x/Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib329049714#329049715#0(0"0(0#0#74"/Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/MainMenu.xib2513076880#395"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s329049714.459481
+e329049715.069968
+r1
+xCopyStringsFile
+x/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings329049714#329049715#0(0"0(0#0#79"/Users/kikugawamariko/XCodeProjects/GauseFilter/English.lproj/InfoPlist.strings2513076880#387"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/MacOS/GauseFilter normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Info.plist GauseFilter-Info.plist
+s329049714.421261
+e329049714.459387
+r1
+xProcessInfoPlistFile
+x/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Info.plist
+xGauseFilter-Info.plist
+lSLF07#2@30"Process GauseFilter-Info.plist329049714#329049714#0(0"0(0#0#70"/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilter-Info.plist2513076880#349"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    builtin-infoPlistUtility GauseFilter-Info.plist -genpkginfo /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch.gch GauseFilter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s329049715.070127
+e329049723.567614
+r1
+xProcessPCH
+x/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch.gch
+xGauseFilter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile GauseFilter_Prefix.pch329049715#329049723#0(0"0(0#0#70"/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilter_Prefix.pch2513076880#1522"    cd /Users/kikugawamariko/XCodeProjects/GauseFilter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/GauseFilter-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/GauseFilter/GauseFilter_Prefix.pch -o /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-aapkvtljvzbtypcvehkcnzuqbmzg/GauseFilter_Prefix.pch.gch0#
+
+CTouch /Users/kikugawamariko/XCodeProjects/GauseFilter/build/Debug/GauseFilter.app
+r0
+

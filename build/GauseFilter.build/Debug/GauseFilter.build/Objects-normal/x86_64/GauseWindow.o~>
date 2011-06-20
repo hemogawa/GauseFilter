@@ -1,0 +1,9 @@
+In file included from /Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:11:
+/Users/kikugawamariko/XCodeProjects/GauseFilter/View.h:15: error: duplicate member '_window'
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:15: warning: cannot find interface declaration for 'GauseWindow'
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m: In function '-[GauseWindow capture:]':
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:16: error: '_appWindow' undeclared (first use in this function)
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:16: error: (Each undeclared identifier is reported only once
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:16: error: for each function it appears in.)
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:27: error: '_image' undeclared (first use in this function)
+/Users/kikugawamariko/XCodeProjects/GauseFilter/GauseWindow.m:33: error: '_appView' undeclared (first use in this function)
