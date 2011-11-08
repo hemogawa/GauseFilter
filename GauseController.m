@@ -23,6 +23,11 @@ static CGSConnection connection;
 	_alreadyWindow = NO;
 	NSLog(@"%2f",_radius);
 	[self equipWindow:self];
+	_bar = [NSStatusBar systemStatusBar];    //ステータスバーを作成
+	_sbItem = [_bar statusItemWithLength:NSVariableStatusItemLength];    //ステータスバーに載せるアイテムを作成
+	[_sbItem retain];    //sbItemを保持
+	[_sbItem setTitle:@"Start"];    //タイトルをセット
+	[_sbItem setHighlightMode:YES];    //クリック時にハイライト表示	return self;
 	return self;
 }
 	
@@ -75,6 +80,9 @@ static CGSConnection connection;
 	NSDictionary *optionDict = [NSDictionary dictionaryWithObject:[NSNumber numberWithFloat:_radius] forKey:@"inputRadius"];
 	CGSSetCIFilterValuesFromDictionary(connection, wfr, (CFDictionaryRef)optionDict);
 	CGSAddWindowFilter(connection, [_aWindow windowNumber], wfr, 1);
+    char sbText[255];
+	sprintf(sbText,"姿勢の悪さレベル:%d",(int)(_radius*10));
+	[_sbItem setTitle:[NSString stringWithCString:sbText encoding:NSUTF8StringEncoding]];
 }
 
 @end
