@@ -17,11 +17,13 @@ extern OSStatus CGSNewConnection(const void **attributes, CGSConnection * id);
 static CGSWindowFilterRef wfr;
 static CGSConnection connection;
 
--(void)applicationDidFinishLaunching:(NSNotification *)aNotification{
+-(id)init{
 	NSLog(@"launched");
 	_radius = 0.0;
 	_alreadyWindow = NO;
 	NSLog(@"%2f",_radius);
+	[self equipWindow:self];
+	return self;
 }
 	
 
@@ -67,7 +69,12 @@ static CGSConnection connection;
 -(IBAction)changeRadius:(id)sender{
 	_radius = [sender floatValue];
 	NSLog(@"%2.1f",_radius);
-	[self equipWindow:self];
+	//[self equipWindow:self];
+	CGSNewConnection(NULL, &connection);
+	CGSNewCIFilterByName(connection, (CFStringRef)@"CIGaussianBlur", &wfr);
+	NSDictionary *optionDict = [NSDictionary dictionaryWithObject:[NSNumber numberWithFloat:_radius] forKey:@"inputRadius"];
+	CGSSetCIFilterValuesFromDictionary(connection, wfr, (CFDictionaryRef)optionDict);
+	CGSAddWindowFilter(connection, [_aWindow windowNumber], wfr, 1);
 }
 
 @end
