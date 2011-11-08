@@ -327,11 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-<<<<<<< HEAD
-										<string>3C9DE4491469B13300AC060C</string>
-=======
 										<string>3C9DE42B1469141800AC060C</string>
->>>>>>> parent of 663046f... add statusbar
 										<key>history</key>
 										<array>
 											<string>3C084CAB139CF49100481EFE</string>
@@ -542,13 +538,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-<<<<<<< HEAD
-		<string>3C9DE4511469B13300AC060C</string>
-		<string>3C9DE4521469B13300AC060C</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-=======
->>>>>>> parent of 663046f... add statusbar
 		<string>3C084C72139CD75A00481EFE</string>
 		<string>/Users/kikugawamariko/XCodeProjects/Lab/GauseFilter/GauseFilter.xcodeproj</string>
 	</array>
@@ -674,13 +663,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-<<<<<<< HEAD
-											<string>{{0, 0}, {316, 203}}</string>
-											<string>{{316, 0}, {378, 203}}</string>
-=======
 											<string>{{0, 0}, {316, 202}}</string>
 											<string>{{316, 0}, {378, 202}}</string>
->>>>>>> parent of 663046f... add statusbar
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -695,13 +679,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-<<<<<<< HEAD
-											<string>{{0, 0}, {694, 203}}</string>
-											<string>{{0, 203}, {694, 178}}</string>
-=======
 											<string>{{0, 0}, {694, 202}}</string>
 											<string>{{0, 202}, {694, 179}}</string>
->>>>>>> parent of 663046f... add statusbar
 										</array>
 									</dict>
 								</dict>
@@ -734,11 +713,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-<<<<<<< HEAD
-									<string>{{316, 0}, {378, 203}}</string>
-=======
 									<string>{{316, 0}, {378, 202}}</string>
->>>>>>> parent of 663046f... add statusbar
 									<key>RubberWindowFrame</key>
 									<string>525 185 694 422 0 0 1280 778 </string>
 								</dict>
@@ -766,15 +741,6 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-<<<<<<< HEAD
-				<string>3C9DE44A1469B13300AC060C</string>
-				<string>1C162984064C10D400B95A72</string>
-				<string>3C9DE44B1469B13300AC060C</string>
-				<string>3C9DE44C1469B13300AC060C</string>
-				<string>3C9DE44D1469B13300AC060C</string>
-				<string>3C9DE44E1469B13300AC060C</string>
-				<string>3C9DE44F1469B13300AC060C</string>
-=======
 				<string>3C443FD913E755C8002C2FD1</string>
 				<string>1C162984064C10D400B95A72</string>
 				<string>3C443FDA13E755C8002C2FD1</string>
@@ -782,7 +748,6 @@
 				<string>3C443FDC13E755C8002C2FD1</string>
 				<string>3C443FDD13E755C8002C2FD1</string>
 				<string>3C443FDE13E755C8002C2FD1</string>
->>>>>>> parent of 663046f... add statusbar
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -944,11 +909,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-<<<<<<< HEAD
-				<string>3C9DE4501469B13300AC060C</string>
-=======
 				<string>3C443FDF13E755C8002C2FD1</string>
->>>>>>> parent of 663046f... add statusbar
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
