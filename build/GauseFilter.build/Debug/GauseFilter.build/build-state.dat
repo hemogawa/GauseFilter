@@ -1,7 +1,11 @@
 TGauseFilter
 v7
 r0
+<<<<<<< HEAD
 t342470634.875470
+=======
+t333927878.494062
+>>>>>>> parent of 663046f... add statusbar
 cCheck dependencies
 cProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter/build/Debug/GauseFilter.app/Contents/Info.plist GauseFilter-Info.plist
 cCopyStringsFile /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -402,7 +406,11 @@ s1002
 
 CCheck dependencies
 r0
+<<<<<<< HEAD
 lSLF07#2@18"Check dependencies342470634#342470634#0(0"0(0#1#0"4261848#0"0#
+=======
+lSLF07#2@18"Check dependencies333927875#333927875#0(0"0(0#1#0"2502754848#0"0#
+>>>>>>> parent of 663046f... add statusbar
 
 CCompileC build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/Controller.o /Users/kikugawamariko/XCodeProjects/GauseFilter/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s329100373.931319
