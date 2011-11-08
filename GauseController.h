@@ -18,10 +18,13 @@
 	GauseModel *_gauseModel;
 	IBOutlet NSWindow* _appWindow;
 	IBOutlet NSImageView* _appView;
+	IBOutlet id _sbMenu;
 	NSImage* _image;
 	NSWindow* _aWindow;
 	float _radius;
 	bool _alreadyWindow;
+	NSStatusBar* _bar;
+	NSStatusItem* _sbItem;
 }
 -(IBAction)capture:(id)sender;
 -(IBAction)changeRadius:(id)sender;

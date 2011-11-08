@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+=======
+124006e627fdb797583b642440cc6549 614b44f4e371ea2a2b6e8de5a84a21c5 ffffffffffffffffffffffffffffffff 6072 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseModel.o
+124006e627e01394583b642440cc6667 9c45503d17ab5095f89853a99c1d544a ffffffffffffffffffffffffffffffff 17480 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseView.o
+124006e624a6cd16583b642440cc6f35 77551dff65bb9166a7edcd67f37a1909 ffffffffffffffffffffffffffffffff 29788 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseController.o
+124006e669a3e79f583b642440cc5bf6 465e0b2a064618c431d67d9c6c97ad6a ffffffffffffffffffffffffffffffff 5056 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/main.o
+97cc57c8b2b4160353d9c11df43c59d7 1a134715b023fef4eccbd6b1807e573c ffffffffffffffffffffffffffffffff 102 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/Debug/GauseFilter.app
+cc05021cdd972bfa45cd6eb7abb0599b a9e01b0527005dae4a1e507703e169b7 ffffffffffffffffffffffffffffffff 19800 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/Debug/GauseFilter.app/Contents/MacOS/GauseFilter
+000000000d2835a8000000000000017c 124006e669a3e79f583b642440cc5a73 ffffffffffffffffffffffffffffffff 54306576 /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GauseFilter_Prefix-abtfajawejywfsdghkkxwfqpnoqo/GauseFilter_Prefix.pch.gch
+000000004eb6f0c20000000000030f1c 9d9b8503f9944b5d0b45b5a159d05906 ffffffffffffffffffffffffffffffff 35705 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/MainMenu.nib
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 92 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/Debug/GauseFilter.app/Contents/Resources/English.lproj/InfoPlist.strings
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/Debug/GauseFilter.app/Contents/PkgInfo
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1296 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter のコピー/build/Debug/GauseFilter.app/Contents/Info.plist
+>>>>>>> add statusbar
 e50a0792bd0d378d64ae5eeee4d2a5c6 dd79a55093d6ebee5d6ec1a084906075 ffffffffffffffffffffffffffffffff 6040 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseModel.o
 e50a0792bd10938e64ae5eeee4d2a6e8 119697196444ed8efbc3d0ce8f311959 ffffffffffffffffffffffffffffffff 16760 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseView.o
 e50a0792bed7a3e964ae5eeee4d2ad85 4fad8387801066e0f2224ee57816a919 ffffffffffffffffffffffffffffffff 25908 /Users/kikugawamariko/XCodeProjects/Lab/GauseFilter/build/GauseFilter.build/Debug/GauseFilter.build/Objects-normal/x86_64/GauseController.o
